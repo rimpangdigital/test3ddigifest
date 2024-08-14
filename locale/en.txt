@@ -9,7 +9,7 @@ WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.co
 ## Media
 
 ### Title
-model_58AE9FBD_4E97_E06A_41CC_842BDF84EE29.label = scene
+model_528DA4C3_4E9C_201E_41C7_B35CC0524CEC.label = galeri 1
 
 ## Skin
 
